@@ -1,6 +1,6 @@
 # ElasticNet
 
-Bu veri seti Kaggle yarışmasında kullanılmış ve 1.115 Rossmann mağazası için geçmiş satış veri kullaılmıştır.
+Bu veri seti Kaggle yarışmasında kullanılmış ve 1.115 Rossmann mağazası için geçmiş satış veri kullanılmıştır.
 
 Projede ElasticNet modeli kullanılmış ve satış tahmini yapılmıştır. 
 
